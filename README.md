@@ -7,7 +7,7 @@
 
 ## About The Project
 
-<img src="./parallax.png" alt="">
+<img src="./parallax.PNG" alt="">
 
 parallax website designed in this project. The main purpose of this project is using " background-attachment: fixed" in project.
 
